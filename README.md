@@ -1,1 +1,0 @@
-# CI-CD-Pipeline-for-a-Static-Website-using-GitHub-Actions

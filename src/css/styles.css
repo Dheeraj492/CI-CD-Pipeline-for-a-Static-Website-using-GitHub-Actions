@@ -1,0 +1,23 @@
+body { 
+    font-family: system-ui, sans-serif; 
+    display:flex; align-items:center; 
+    justify-content:center; 
+    height:100vh; margin:0; 
+    background:#f7f8fb; 
+}
+
+main { 
+    text-align:center; 
+    padding:2rem; 
+    border-radius:12px; 
+    box-shadow:0 6px 24px rgba(0,0,0,0.08); 
+    background:white; 
+}
+
+button { 
+    padding:0.6rem 1rem; 
+    font-size:1rem; 
+    border-radius:8px; 
+    border:none; 
+    cursor:pointer; 
+}
